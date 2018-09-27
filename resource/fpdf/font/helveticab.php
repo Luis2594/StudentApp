@@ -1,6 +1,6 @@
 <?php
 $type = 'Core';
-$text = 'Helvetica-Bold';
+$name = 'Helvetica-Bold';
 $up = -100;
 $ut = 50;
 $cw = array(

@@ -1,6 +1,6 @@
 <?php
 $type = 'Core';
-$text = 'Times-Italic';
+$name = 'Times-Italic';
 $up = -100;
 $ut = 50;
 $cw = array(
